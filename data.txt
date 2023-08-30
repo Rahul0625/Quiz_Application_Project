@@ -1,23 +1,21 @@
-///////////////////////////////////////////////////////////
-Find below the Rules
-//////////////////////////////////////////////////////////
+
 rules.setText(
-            "<html>"+ 
-                "1. You are trained to be a programmer and not a story teller, answer point to point" + "<br><br>" +
-                "2. Do not unnecessarily smile at the person sitting next to you, they may also not know the answer" + "<br><br>" +
-                "3. You may have lot of options in life but here all the questions are compulsory" + "<br><br>" +
-                "4. Crying is allowed but please do so quietly." + "<br><br>" +
-                "5. Only a fool asks and a wise answers (Be wise, not otherwise)" + "<br><br>" +
-                "6. Do not get nervous if your friend is answering more questions, may be he/she is doing Jai Mata Di" + "<br><br>" +
-                "7. Brace yourself, this paper is not for the faint hearted" + "<br><br>" +
-                "8. May you know more than what John Snow knows, Good Luck" + "<br><br>" +
+            "<html>"+
+                        "1. The quiz competition is open to all participants of age 18 and above, regardless of their background or affiliation." + "<br><br>" +
+                        "2. Participants must register prior to the event either online or on-site. Late registrations might not be accepted." + "<br><br>" +
+                        "3. Participants cannot be a part of multiple teams." + "<br><br>" +
+                        "4. The quiz will consist of multiple-choice questions, true/false statements, and short-answer questions." + "<br><br>" +
+                        "5. Each question will have a specified time limit for answering. Once the time is up, answers will not be accepted." + "<br><br>" +
+                        "6. Participants cannot use mobile phones, books, or any external aids during the competition. " + "<br><br>" +
+                        "7. Correct answers will be awarded points." + "<br><br>" +
+                        "8. Any violation might lead to disqualification." + "<br><br>" +
             "<html>"
 );
 
 
-////////////////////////////////////////////////////////////
-Please find the Qustions with Options of Quiz Application
-////////////////////////////////////////////////////////////	
+
+<-----Please find the questions with Options for Quiz Application----->
+	
 
 	questions[0][0] = "Which is used to find and fix bugs in the Java programs.?";
         questions[0][1] = "JVM";
@@ -79,10 +77,9 @@ Please find the Qustions with Options of Quiz Application
         questions[9][3] = "Use of exception handling";
         questions[9][4] = "Dynamic binding between objects";
 
-////////////////////////////////////////////////////////////
-Find below the Answers Array of the above Questions
-////////////////////////////////////////////////////////////	
-        
+
+<-----Find below the Answers Array of the above Questions----->
+	
         answers[0][1] = "JDB";
         answers[1][1] = "int";
         answers[2][1] = "java.util package";
