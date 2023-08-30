@@ -1,3 +1,5 @@
+<----- Please find below the Rules for the Quiz Application ----->
+
 
 rules.setText(
             "<html>"+
@@ -14,7 +16,7 @@ rules.setText(
 
 
 
-<-----Please find the questions with Options for Quiz Application----->
+<----- Please find the questions with Options for Quiz Application ----->
 	
 
 	questions[0][0] = "Which is used to find and fix bugs in the Java programs.?";
@@ -78,7 +80,7 @@ rules.setText(
         questions[9][4] = "Dynamic binding between objects";
 
 
-<-----Find below the Answers Array of the above Questions----->
+<----- Find below the Answers Array of the above Questions ----->
 	
         answers[0][1] = "JDB";
         answers[1][1] = "int";
